@@ -3,7 +3,7 @@ const loadQuotes = () => {
         .then(res => res.json())
         .then(data => quote(data))
 }
-// loadQuotes()
+loadQuotes()
 
 const quote = (quote) => {
     const quotes = document.getElementById('quote');
