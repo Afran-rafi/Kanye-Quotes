@@ -1,0 +1,19 @@
+#kanye{
+    text-align: center;
+    color: tomato;
+}
+
+#quote-btn{
+    background-color: tomato;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+}
+
+.btn{
+    text-align: center;
+}
+
+#quote{
+    text-align: center;
+}
